@@ -94,7 +94,7 @@
         </div>
         <div class="row d-flex no-gutters">
           <div class="col-md-6 d-flex">
-            <div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end mb-4 mb-sm-0" style="background-image:url(images/servi.png);">
+            <div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end mb-4 mb-sm-0" style="background-image:url(images/servi.PNG);">
               <a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
                 <span class="fa fa-play"></span>
               </a>
