@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
    <title>@yield('title')</title>
-    <link rel="icon" href="{{asset('images/favicon.png')}}">
+    <link rel="icon" href="{{asset('images/favicon.PNG')}}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Title Page-->
